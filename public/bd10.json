@@ -9,5 +9,181 @@
         "album": "My Hero",
         "numero_de_pista": "1/1",
         "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274404_1.flac",
+        "descripcion": "198274404",
+        "imagen": "Albums/198274404.jpg",
+        "genero": "Dance & DJ",
+        "titulo": "Immortal Flame",
+        "artista": "Panda Eyes, Teminite & Anna Yvette",
+        "album": "Immortal Flame",
+        "numero_de_pista": "1/1",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274405_1.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Alone Again [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "1/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_2.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Too Late [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "2/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_3.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Hardest To Love [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "3/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_4.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Scared To Live [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "4/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_5.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Snowchild [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "5/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_6.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Escape From LA [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "6/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_7.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Heartless [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "7/14",
+        "Año": "2019"
+    },
+    {
+        "archivo_musica": "Albums/198274405_8.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Faith [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "8/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_9.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Blinding Lights",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "9/14",
+        "Año": "2019"
+    },
+    {
+        "archivo_musica": "Albums/198274405_10.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "In Your Eyes [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "10/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_11.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Save Your Tears [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "11/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_12.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Repeat After Me (Interlude) [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "12/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_13.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "After Hours",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "13/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274405_14.flac",
+        "descripcion": "198274405",
+        "imagen": "Albums/198274405.jpg",
+        "genero": "R&B/General",
+        "titulo": "Until I Bleed Out [Explicit]",
+        "artista": "The Weeknd",
+        "album": "After Hours [Explicit]",
+        "numero_de_pista": "14/14",
+        "Año": "2020"
+    },
+    {
+        "archivo_musica": "Albums/198274406_1.flac",
+        "descripcion": "198274406",
+        "imagen": "Albums/198274406.jpg",
+        "genero": "Dance & DJ",
+        "titulo": "Billion Stars",
+        "artista": "Lynx3R",
+        "album": "Billion Stars",
+        "numero_de_pista": "1/1",
+        "Año": "2023"
     }
 ]
